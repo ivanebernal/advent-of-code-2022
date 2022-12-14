@@ -1,5 +1,5 @@
-# Advent of Code 2021
-A repo with my answers to all Advent of Code 2021 problems. 
+# Advent of Code 2022
+A repo with my answers to all Advent of Code 2022 problems. 
 
 https://adventofcode.com/
 
