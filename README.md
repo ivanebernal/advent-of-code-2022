@@ -7,5 +7,5 @@ https://adventofcode.com/
 
 To get an answer to a specific input:
 - Replace `input.txt` from a given day directory with your own input
-- Run `./answer.sh [day] [part]`
+- Run `./answer.sh [day] [part]` (i.e. `./answer.sh 01 part1`)
 - The program should print the answer
